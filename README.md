@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast currently pursuin
 
 ## 🚀 About Me
 I'm deeply passionate about technology and always eager to explore new domains. Currently, I’m focused on developing my expertise in AI, Machine Learning, and Prompt Engineering while working on exciting projects.
-
-## 🚀 About Me
+## 
 - 🔭 Currently working on exciting projects
 - 🌱 Learning new technologies and frameworks
 - 🎯 Goal: To become an AI Engineer
