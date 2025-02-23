@@ -1,9 +1,10 @@
 # Hi there, I'm Aayush Mehta! 👋
+[![Email](https://img.shields.io/badge/-aayushmehta25466%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aayushmehta25466@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Aayush%20Mehta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-mehta404/)](https://www.linkedin.com/in/aayush-mehta404/)
 
 Welcome to my GitHub profile! I'm a passionate tech enthusiast currently pursuing a B.Tech degree. I love coding for hours, exploring new technologies, and focusing on self-development.
 
-[![Email](https://img.shields.io/badge/-aayushmehta25466%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aayushmehta25466@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Aayush%20Mehta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-mehta404/)](https://www.linkedin.com/in/aayush-mehta404/)
+
 
 ## 🚀 About Me
 I'm deeply passionate about technology and always eager to explore new domains. Currently, I’m focused on developing my expertise in AI, Machine Learning, and Prompt Engineering while working on exciting projects.
