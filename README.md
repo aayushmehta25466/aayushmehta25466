@@ -31,6 +31,7 @@ I'm deeply passionate about technology and always eager to explore new domains. 
 
 ## 📊 GitHub Stats  
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/aayushmehta25466/)
+
 ![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushmehta25466&show_icons=true&theme=tokyonight)
 
 
