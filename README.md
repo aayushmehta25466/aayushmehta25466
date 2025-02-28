@@ -27,7 +27,7 @@ I'm deeply passionate about technology and always eager to explore new domains. 
 ![SDL2](https://img.shields.io/badge/-SDL2-073C78?style=flat&logo=SimpleDirectMediaLayer&logoColor=white)
 
 ## 🔥 Projects  
-- [🎮 Queen’s Puzzle (SDL2)](github.com/yourprojectlink) – A 5x5 Queen's Puzzle game using SDL2.  
+- [🎮 Queen’s Puzzle (SDL2)](https://github.com/aayushmehta25466/queen-s-puzzle.git) – A 5x5 Queen's Puzzle game using SDL2.  
 
 ## 📊 GitHub Stats  
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/aayushmehta25466/)
